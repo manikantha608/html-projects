@@ -1,0 +1,22 @@
+Day 1 covered Topics:
+1.What is html?
+  HTML means Hyper Text Markup Language which is used to create web pages.
+  Hyper text means in involves hyper links like <a>
+  Markup language means it produces the structure of the document which using  elements like <p>,<h1>...<h6>,etc...
+
+
+Element:<opentag>content</closedtag>
+self closing tag:<tag/> ex:<img/>
+
+Covered Elements:
+1.<h1>...<h6>
+2.<a>
+3.<br>
+4.<hr>
+5.<p>
+6.<marquee>
+7.<pre>
+
+Paths
+1.absolute path
+2.Relative path
